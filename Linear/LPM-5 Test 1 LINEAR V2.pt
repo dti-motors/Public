@@ -1,0 +1,287 @@
+Set Velocity(140)
+
+
+
+
+Home()
+
+
+
+
+Repeat(4)
+
+
+Pause(100)
+
+
+
+
+Move Time(+, 100)
+
+
+
+
+Pause(100)
+
+
+
+
+Move Time(-, 100)
+
+
+
+
+End Repeat()
+
+
+Pause(1000)
+
+
+
+
+Set Velocity(50)
+
+
+
+
+Braking Distance(1500)
+
+Destination(+,   7500)
+
+
+
+
+Pause(1000)
+
+
+
+
+Braking Distance(100)
+
+
+
+
+
+Home()
+
+
+
+
+
+
+Set Velocity(30)
+
+
+
+
+
+Pause(500)
+
+Destination(+,  500)
+
+
+Pause(1000)
+
+
+
+
+
+Repeat(10)
+Destination(+,   13000)
+
+
+
+
+
+Pause(100)
+Destination(-,   13000)
+
+
+
+
+
+Pause(100)
+
+
+
+
+
+End Repeat()
+
+
+
+
+
+Pause(500)
+
+Destination(+,  7000)
+
+
+
+
+
+Pause(1000)
+
+
+
+
+
+Repeat(5)
+
+Destination(-,  5000)
+
+
+
+
+
+
+Pause(100)
+
+Destination(+,  5000)
+
+
+
+
+
+
+Pause(100)
+
+Destination(+,  5000)
+
+
+
+
+
+
+Pause(100)
+
+Destination(-, 5000)
+
+
+
+
+
+
+Pause(100)
+
+
+
+
+
+
+End Repeat()
+
+
+
+
+
+
+Pause(500)
+
+
+
+Set Velocity(2)
+
+
+
+
+
+Destination(-,  4500)
+
+
+
+
+
+Pause(500)
+
+
+
+
+
+Destination(+,  4500)
+
+
+
+
+
+
+Pause(500)
+
+
+Repeat(90)
+
+
+Destination(+,  50)
+
+
+Pause(50)
+
+
+End Repeat()
+
+
+Destination(-,    4500)
+
+
+Pause(500)
+
+
+
+
+
+Set Velocity(30)
+
+
+
+Repeat(2)
+
+
+
+
+
+Destination(-, 4500)
+
+
+
+
+
+Pause(300)
+
+
+
+
+
+Destination(+,  4500)
+
+
+
+
+
+Pause(300)
+
+
+
+
+
+Destination(+,  4500)
+
+
+
+
+
+Pause(300)
+
+
+
+
+
+Destination(-, 4500)
+
+
+
+
+Pause(300)
+
+
+
+End Repeat()
