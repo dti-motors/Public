@@ -3,7 +3,7 @@
 For the motion control of DTI motors in Closed-Loop mode, an additional
 daughter board is mounted on the driver PCB. Feedback from an external optical
 encoder is fed to the daughter board and used to close the loop.  The position
-and speed of the motor can them be controlled through a set of serial commands
+and speed of the motor can then be controlled through a set of serial commands
 that access pre-programmed motion control algorithms.
 
 The algorithms are optimized on the specific dynamic characteristics of the
